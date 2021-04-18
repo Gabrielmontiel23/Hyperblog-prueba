@@ -1,5 +1,6 @@
 body
 {
+    background-color: #33A;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -25,6 +26,11 @@ body
     font-size: 0.8em;
 }
 
+#post
+{
+    background-color: #DDD;
+}
+
 #container
 {
     width: 70%;
@@ -41,4 +47,9 @@ body
 #post
 {
     padding: 1em;
+}
+figure img
+{
+    width: 80%;
+    height: auto;
 }
