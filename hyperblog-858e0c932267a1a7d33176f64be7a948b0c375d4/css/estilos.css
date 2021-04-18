@@ -42,3 +42,13 @@ body
 {
     padding: 1em;
 }
+footer
+{
+    width: 100vw;
+    height: 50px;
+    border: greenyellow 2px solid;
+    font-weight:bold;
+    font-style: oblique;
+    color: greenyellow;
+    background-color:midnightblue;
+}
