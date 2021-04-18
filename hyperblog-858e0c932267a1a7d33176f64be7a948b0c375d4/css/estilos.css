@@ -53,3 +53,11 @@ figure img
     width: 80%;
     height: auto;
 }
+footer
+{
+    border: greenyellow 2px solid;
+    font-weight:bold;
+    font-style: oblique;
+    color: greenyellow;
+    background-color:midnightblue;
+}
