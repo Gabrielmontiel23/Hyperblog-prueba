@@ -1,2 +1,6 @@
-# Hyperblog-prueba
-Este es un blog de prueba creado a partir del curso Profesional de Git y Github orientado por el super freddier de Platzi
+# **Hyperblog**
+> Este proyecto se creo y desarrollo en el curso Profesional de Git y Github con Freddy Vega.
+
+######Este el proyecto de ejemplo que utilizamos para aprender a dominar Git y claramente Github.
+
+##### Esperamos te guste 🤗💚.
